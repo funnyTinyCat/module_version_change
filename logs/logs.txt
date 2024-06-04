@@ -1,0 +1,61 @@
+
+1. na bpwingps_62003a.ecf sam dodao 4ab
+
+generirao je pogrešnu verziju modula 
+
+BPwinGPS_620034ab.ECF - trebao je BPwinGPS_62004ab.ECF? - OK
+
+
+2. kreirati magic.ini fajlove? - OK
+
+
+3. prilagoditi za multi magic.ini update? - OK
+
+
+4. probati get-content sa array variablom? - Preskačem
+
+
+5. prilagoditi user interface? - OK
+
+
+6. završiti ria skriptu za izmjenu magic.ini fajlova?
+
+
+7. implementirati restart broker servicea?
+
+
+8. prilagoditi radu na serveru?
+
+Write-Host
+
+write-information
+
+write-warning
+
+write-error
+
+write-output
+
+write-host
+
+write-verbose
+
+
+colors:
+
+Black
+DarkBlue
+DarkGreen
+DarkCyan
+DarkRed
+DarkMagenta
+DarkYellow
+Gray
+DarkGray
+Blue
+Green
+Cyan
+Red
+Magenta
+Yellow
+White
